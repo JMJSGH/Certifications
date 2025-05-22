@@ -5,14 +5,14 @@ This repository showcases my certifications in Machine Learning and Deep Learnin
 
 ## 1. Machine Learning on Google Cloud
 
-**[Main Certificate 📄]()**
+**[Main Certificate 📄](https://coursera.org/share/73ff18fedf8768c4af066a197cb7d98b)**
 
 **Sub-courses:**
 
-- [Introduction to AI and Machine Learning on Google Cloud](#)
-- [Build, Train and Deploy ML Models with Keras on Google Cloud](#)
-- [Feature Engineering](#)
-- [Machine Learning in the Enterprise](#)
+- [Introduction to AI and Machine Learning on Google Cloud](https://coursera.org/share/22030aa9ece794628d8c1b933fb0a6ad)
+- [Build, Train and Deploy ML Models with Keras on Google Cloud](https://coursera.org/share/f6f59914bde911f1c39b3f210656ddbe)
+- [Feature Engineering](https://coursera.org/share/5d6aa0c4a4c36a7e5d637f8f4db294e4)
+- [Machine Learning in the Enterprise](https://coursera.org/share/434cf675ec70025c3a66bc96fb8bafbd)
 
 ---
 
@@ -32,10 +32,10 @@ This repository showcases my certifications in Machine Learning and Deep Learnin
 
 ## 3. Machine Learning Specialization (Andrew Ng – Coursera)
 
-**[Main Certificate 📄]([#](https://coursera.org/share/335a2b361f8d2de6bde738d71b7cf959))**
+**[Main Certificate 📄](https://coursera.org/share/335a2b361f8d2de6bde738d71b7cf959)**
 
 **Sub-courses:**
 
-- [Supervised Machine Learning: Regression and Classification]([#](https://coursera.org/share/21e82958e5c518e9786dfd1fb0d0234d))
-- [Advanced Learning Algorithms]([#](https://coursera.org/share/b3886c2b1bbdd25295172cad78851f55))
-- [Unsupervised Learning, Recommenders, Reinforcement Learning]([#](https://coursera.org/share/96f91662f988ffba98c77c92042abd7f))
+- [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/21e82958e5c518e9786dfd1fb0d0234d)
+- [Advanced Learning Algorithms](https://coursera.org/share/b3886c2b1bbdd25295172cad78851f55)
+- [Unsupervised Learning, Recommenders, Reinforcement Learning](https://coursera.org/share/96f91662f988ffba98c77c92042abd7f)
